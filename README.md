@@ -1,28 +1,10 @@
-iOS 8 UI Kit +
+iOS 8 UI Kit + for Sketch
 ===========
 
 I've extended and updated the excelente Teehan+Lax built-in UI kit to iOS 8 and I've added some new elements.
 
 To download simply click the *Download ZIP* button on the right sidebar
 
-## Elements
-
-* Springboard
-  ![Springboard Screenshot](https://raw.githubusercontent.com/rafaelconde/ios8-ui-kit/master/screenshots/springboard.png)
-
-* Share sheet (Photos.app)
-  ![Share Sheet Screenshot](https://raw.githubusercontent.com/rafaelconde/ios8-ui-kit/master/screenshots/sharesheet.png)
-
-* Notification Center (Today view)
-  ![Notification Center Screenshot](https://raw.githubusercontent.com/rafaelconde/ios8-ui-kit/master/screenshots/notification_center.png)
-* Control Center
-  ![Control Center Screenshot](https://raw.githubusercontent.com/rafaelconde/ios8-ui-kit/master/screenshots/control_center.png)
-
-* Removed deprecated Lock screen bigger status bar
-
-* Controls: Segmented Control
-
-* Keyboards: Predictive Text bar
 
 ## About the kit
 
@@ -33,3 +15,22 @@ To download simply click the *Download ZIP* button on the right sidebar
 * I will be updating the file to match the beta releases.
 * Feel free to send me some element requests, if I find the time I'll add them to the kit.
 
+
+## Elements
+
+* ###Springboard
+  ![Springboard Screenshot](https://raw.githubusercontent.com/rafaelconde/ios8-ui-kit/master/screenshots/springboard.png)
+
+* ###Share sheet (Photos.app)
+  ![Share Sheet Screenshot](https://raw.githubusercontent.com/rafaelconde/ios8-ui-kit/master/screenshots/sharesheet.png)
+
+* ###Notification Center (Today view)
+  ![Notification Center Screenshot](https://raw.githubusercontent.com/rafaelconde/ios8-ui-kit/master/screenshots/notification_center.png)
+* ###Control Center
+  ![Control Center Screenshot](https://raw.githubusercontent.com/rafaelconde/ios8-ui-kit/master/screenshots/control_center.png)
+
+* ###Removed deprecated Lock screen bigger status bar
+
+* ###Controls: Segmented Control
+
+* ###Keyboards: Predictive Text bar
