@@ -29,7 +29,8 @@ To download simply click the *Download ZIP* button on the right sidebar
 * ###Control Center
   ![Control Center Screenshot](https://raw.githubusercontent.com/rafaelconde/ios8-ui-kit/master/screenshots/control_center.png)
 
-* ###Removed deprecated Lock screen bigger status bar
+* ###Lockscreen (new)
+  ![Lockscreen Screenshot](https://raw.githubusercontent.com/rafaelconde/ios8-ui-kit/master/screenshots/lockscreen.png)
 
 * ###Controls: Segmented Control
 
