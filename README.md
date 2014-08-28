@@ -15,7 +15,7 @@ To download simply click the *Download ZIP* button on the right sidebar
 * I will be updating the file to match the beta releases.
 * Feel free to send me some element requests, if I find the time I'll add them to the kit.
 
-###Updated to iOS 8 beta 4
+###Updated to iOS 8 beta 5
 
 
 ## Elements
