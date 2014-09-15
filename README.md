@@ -3,8 +3,7 @@ iOS 8 UI Kit + for Sketch
 
 I've extended and updated the excelente Teehan+Lax built-in UI kit to iOS 8 and I've added some new elements.
 
-To download simply click the *Download ZIP* button on the right sidebar
-
+To use, simply download the *Download ZIP* button on the right sidebar, unzip and open the .sketch file in Sketch. It's advisable to place this "master" file somewhere safe, and duplicate it when you need to create your own layouts.
 
 ## About the kit
 
