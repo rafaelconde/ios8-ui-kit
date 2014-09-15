@@ -10,8 +10,6 @@
 	<string>104f8b8798002207eebbbee810c02306c5ce85c9</string>
 	<key>fonts</key>
 	<array>
-		<string>AvenirNext-Bold</string>
-		<string>AvenirNext-Regular</string>
 		<string>HelveticaNeue</string>
 		<string>HelveticaNeue-Medium</string>
 		<string>HelveticaNeue-Thin</string>
@@ -20,7 +18,7 @@
 		<string>AvenirNext-UltraLight</string>
 	</array>
 	<key>length</key>
-	<integer>18746388</integer>
+	<integer>23812602</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
