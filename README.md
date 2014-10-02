@@ -47,3 +47,5 @@ To use, simply download the *Download ZIP* button on the right sidebar, unzip an
 * ###Keyboards: Predictive Text bar
 
 * ###Icons: Notification Red Badge Count (new)
+
+* ###Keyboards: Vectorized the keyboards (previously bitmap) by [Matt Sephton](https://github.com/gingerbeardman)
